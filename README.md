@@ -13,7 +13,7 @@ This repository is a demonstration of Hybrid A*, a famous robot motion planning 
 
 To get started with the HybridA-Demo repository, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/HybridA-Demo.git`
+1. Clone the repository: `git clone https://github.com/henryhcliu/HybridA-Demo.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the demo application: `python hybrid_a_star.py`
 
